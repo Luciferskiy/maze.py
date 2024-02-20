@@ -11,4 +11,4 @@ knowlegde = And(
     dumbledore,
 )
 
-print(sentence.formula())
+print(model_check(knowledge, rain))
